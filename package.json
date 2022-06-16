@@ -1,0 +1,22 @@
+{
+  "name": "testesloginappriot",
+  "version": "1.0.0",
+  "description": "Testando funcionalidade nova do Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasPessutto/testesLoginAppRiot.git"
+  },
+  "author": "Lucas Pessutto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasPessutto/testesLoginAppRiot/issues"
+  },
+  "homepage": "https://github.com/LucasPessutto/testesLoginAppRiot#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
