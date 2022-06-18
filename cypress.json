@@ -1,1 +1,4 @@
-{}
+{
+    "baseUrl": "https://www.americanas.com.br",
+    "experimentalSessionAndOrigin": true
+}

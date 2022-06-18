@@ -1,8 +1,8 @@
 {
-  "name": "testesloginappriot",
+  "name": "testeslogin",
   "version": "1.0.0",
   "description": "Testando funcionalidade nova do Cypress",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "cy:open": "cypress open"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LucasPessutto/testesLoginAppRiot#readme",
   "devDependencies": {
-    "cypress": "^9.6.0"
+    "cypress": "^9.6.0",
+    "typescript": "^4.7.4"
   }
 }
