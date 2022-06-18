@@ -1,0 +1,25 @@
+{
+  "users": 
+  [
+    {
+    "role": "admin",
+    "email": "",
+    "password": ""
+    },
+    {
+      "role": "password-incorrect",
+      "email": "lucas.pessutto1@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "role": "non-registered",
+      "email": "lucas.pessutto123@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "role": "invalid-email",
+      "email": "lucas.pessutto1.gmail.com",
+      "password": "12345678"
+    }
+  ]   
+}
